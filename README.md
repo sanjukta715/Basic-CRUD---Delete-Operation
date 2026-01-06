@@ -1,13 +1,16 @@
-# CRUD - Delete Operation (PHP + MySQL)
+# sanjukta_ui
 
-## Features
-- Lists all posts from database
-- Each post has a Delete button
-- Confirmation popup before deleting (JavaScript)
-- Uses prepared statements for secure DELETE query
-- Redirects back after deletion
+A new Flutter project.
 
-## How to Use
-1. Import the provided SQL file (optional).
-2. Update database settings in `db.php`.
-3. Open: http://localhost/crud-delete/list_posts.php
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
